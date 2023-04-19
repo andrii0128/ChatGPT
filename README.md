@@ -18,7 +18,7 @@
 
 ### Homepage
 
-https://github.com/bcExpt1123/chatgpt-example/blob/main/README.md
+https://github.com/andrii0128/ChatGPT/blob/main/README.md
 
 ### Bugs
 
