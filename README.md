@@ -20,13 +20,9 @@
 
 https://github.com/andrii0128/ChatGPT/blob/main/README.md
 
-### Bugs
-
-https://github.com/bcExpt1123/chatgpt-example/issues
-
 ### Author
 
-[bcExpt1123](https://github.com/bcExpt1123)
+[Andrii Kostenko](https://github.com/andrii0128)
 
 ## How to run project.
 
