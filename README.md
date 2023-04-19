@@ -1,4 +1,4 @@
-# ChatGPT Example
+# ChatGPT
 
 ![Screenshot](./screenshots/1.gif)
 
