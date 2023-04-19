@@ -16,10 +16,6 @@
 - `Express`
 - `OpenAIAPI`
 
-### Homepage
-
-https://github.com/andrii0128/ChatGPT/blob/main/README.md
-
 ### Author
 
 [Andrii Kostenko](https://github.com/andrii0128)
